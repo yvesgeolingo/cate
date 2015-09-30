@@ -9,14 +9,7 @@ The target users of the system include the manager, customers, and staff of the 
 Alongside the other built in features, the integration of an online calendar for the system which will centralize all the inquiries. It will include the auto generation of contracts, quotation and reports such as monthly event summary and sales report that would be easily accessible by the client and the company.
 The manager would additionally be able to distribute event schedules to staff which can be viewed even outside the offices of the company.
 
-## Official Documentation
-Documentation: **Private** (Submitted to DLS-CSB Information Systems Department)
-Team: Geolingo, Macapugay, Maranan, Valenton
-
-
 ### License
-
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-[![License](https://upload.wikimedia.org/wikipedia/en/1/10/DLS-CSB_Seal.png)](https://www.benilde.edu.ph)
 Project: In Partial Fulfillment of the Requirements for course ISPROJ2. Development phase for educational purposes only unless stated. No copyright infringement intended.
+
 Laravel: The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
